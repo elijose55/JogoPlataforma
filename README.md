@@ -5,7 +5,7 @@ Jogo de plataforma desenvolvido pelo Unity nas aulas de Jogos Digitais.
 https://elijose55.github.io/JogoPlataforma/
 
 ## WoodMan
-Ajude o Woodman a passar por todos os obstáculos e chegar a bandeira final! No percurso você encontrará os mais diversos impedimentos para o avanço de Woodman. Não esqueça de coletar a maior quantidade de moedas posíveis! Você tem apenas 3 vidas...
+Ajude o Woodman a passar por todos os obstáculos e chegar a bandeira final! No percurso você encontrará os mais diversos impedimentos para o avanço de Woodman. Não esqueça de coletar a maior quantidade de moedas posíveis! Você tem apenas 3 vidas, mas quando você atinge um checkpoint (baú) você passa a reviver naquele ponto.
 
 ## Controles
 Barra de Espaço - Pula
