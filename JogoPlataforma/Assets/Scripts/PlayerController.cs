@@ -266,7 +266,7 @@ public class PlayerController : MonoBehaviour
                 }
             }
 
-            RaycastHit2D hit = Physics2D.Raycast(transform.position, -Vector2.up, 4f, mask);
+            RaycastHit2D hit = Physics2D.Raycast(transform.position, -Vector2.up, 8f, mask);
             if (hit.collider != null && isGrounded) {
                 if(Input.GetButtonDown("Jump")) {
                     anim = hit.collider.gameObject.GetComponent<Animator>();
@@ -276,7 +276,7 @@ public class PlayerController : MonoBehaviour
                 }
             }
 
-            RaycastHit2D hitM = Physics2D.Raycast(transform.position, -Vector2.up, 4f, maskM);
+            RaycastHit2D hitM = Physics2D.Raycast(transform.position, -Vector2.up, 8f, maskM);
             if (hitM.collider != null && isGrounded) {
                 transform.SetParent(hitM.transform);
             } else {
