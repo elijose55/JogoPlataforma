@@ -9,5 +9,7 @@ Ajude o Woodman a passar por todos os obstáculos e chegar a bandeira final! No 
 
 ## Controles
 Barra de Espaço - Pula
+
 Seta Esquerda - Anda para Esquerda
+
 Seta Direita - Anda para Direita
